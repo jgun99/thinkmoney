@@ -1,0 +1,52 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.0.4)
+  - Alamofire (3.1.4)
+  - Charts (2.1.6)
+  - CryptoSwift (0.2.1)
+  - Money (1.4.2):
+    - Result
+    - SwiftyJSON
+    - ValueCoding
+  - PNChart (0.8.7):
+    - UICountingLabel (~> 1.2.0)
+  - Realm (0.97.0):
+    - Realm/Headers (= 0.97.0)
+  - Realm/Headers (0.97.0)
+  - RealmSwift (0.97.0):
+    - Realm (= 0.97.0)
+  - Result (1.0.1)
+  - SwiftDate (2.0.2)
+  - SwiftSpinner (0.8.0)
+  - SwiftyJSON (2.3.2)
+  - UICountingLabel (1.2.0)
+  - ValueCoding (1.1.1)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire (~> 3.0)
+  - Charts
+  - CryptoSwift
+  - Money
+  - PNChart
+  - RealmSwift
+  - SwiftDate (~> 2.0)
+  - SwiftSpinner
+  - SwiftyJSON (~> 2.1)
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: 860466cb4a66854e6acb590071ecee404b48f49d
+  Alamofire: fbc829692f351fa1d8a31dd75fd7f7f56fea31fb
+  Charts: 5e1e5ac23898e5b09d226a2fc3e9d86bc281937e
+  CryptoSwift: f137af19c369362debf82957d0366c8d79329341
+  Money: 44cf6c0e7e9c0cacf8cfdd5c70ed412e62654fd8
+  PNChart: c1755716bbd45386d2035b2bf2ce73e6d3f8cb22
+  Realm: b498a6fb9d288b171ff98d0e2d4384c295be8990
+  RealmSwift: d014810dec75c9a3f1a33926d2dabfed855c582c
+  Result: caef80340451e1f07492fa1e89117f83613bce24
+  SwiftDate: b4f4d0962afe48365ad2800c9850a6626deb9359
+  SwiftSpinner: 11c2c5ec7443d92f3026d3067ca8a91d4adef13f
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+  ValueCoding: c693457b32175c1e468b3fd838cb021100a63e71
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "EntryListController.viewDidLoad() -&gt; ():EntryListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "moneyArray">
+            </PersistentString>
+            <PersistentString
+               value = "moneyArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EntryListController.tableView(UITableView, cellForRowAtIndexPath : NSIndexPath) -&gt; UITableViewCell:EntryListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "r_account_type">
+            </PersistentString>
+            <PersistentString
+               value = "cell.rAccount.text = r_account_type.title + &quot;-&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EntryListController.setEntryList(Int) -&gt; ():EntryListController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "entryArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
